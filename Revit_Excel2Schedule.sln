@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit_Excel2Schedule", "Revit_Excel2Schedule.csproj", "{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Relase_x64|Any CPU = Relase_x64|Any CPU
+		Relase_x64|x64 = Relase_x64|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Debug|x64.ActiveCfg = Debug|x64
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Debug|x64.Build.0 = Debug|x64
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Relase_x64|Any CPU.ActiveCfg = Relase_x64|Any CPU
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Relase_x64|Any CPU.Build.0 = Relase_x64|Any CPU
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Relase_x64|x64.ActiveCfg = Relase_x64|x64
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Relase_x64|x64.Build.0 = Relase_x64|x64
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Release|x64.ActiveCfg = Release|x64
+		{046FDEEC-5765-4CCB-B21C-BBAEE125DAE1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27F65A98-6EB6-41C3-AFED-1C18821F93CB}
+	EndGlobalSection
+EndGlobal
