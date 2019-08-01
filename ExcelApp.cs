@@ -37,7 +37,7 @@ using Autodesk.Revit.DB.ExtensibleStorage;
 namespace LINE.Revit
 {
     [ExtApp(Name = "Import Excel as Schedule", Description = "Import an Excel file as a Revit schedule",
-            Guid = "79161298-ebe7-4b3a-b13a-6f65e3f234f2", Vendor = "HKSL", VendorDescription = "HKS LINE, www.hksline.com",
+            Guid = "8b3ad4c9-76d6-4c92-9e3c-5cc0a4e058b3", Vendor = "HKSL", VendorDescription = "HKS LINE, www.hksline.com",
             ForceEnabled = false, Commands = new[] { "Import Excel as Schedule", "Manage Excel Links", "Import Excel Settings", "Excel Link Auto-Sync" })]
     public class UpdateExcelApp : IExternalApplication
     {
